@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Battery Monitor</string>
+    <string name="level">"Level: "</string>
+    <string name="title">"Status: "</string>
+    <string name="temperature">"Temperature:"</string>
+    <string name="unplugged">"Discharging"</string>
+    <string name="AC">"AC Connected"</string>
+    <string name="USB">"USB Connected"</string>
+    <string name="wireless">"Wireless"</string>
+    <string name="full">"Battery Full"</string>
+    <string name="discharge">Discharging</string>
+    <string name="notification_service">Start Notification Service</string>
+    <string name="notification_service_boot">Start Notification Service on Boot</string>
+    <string name="cf_switch_old">Android Oreo and above users, to hide the status bar icon, swipe it away, touch the gear icon and select Minimize.</string>
+    <string name="cf_switch">Please enable Notifications for this app.</string>
+    <string name="left">(</string>
+    <string name="right">)</string>
+    <string name="channel_name">Battery Status</string>
+    <string name="channel_description">Battery Notification Settings</string>
+</resources>
